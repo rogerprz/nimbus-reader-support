@@ -10,7 +10,7 @@ The Application collects information when you download and use it. This informat
 *   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
 *   The time spent on the Application
 *   The operating system you use on your mobile device
-*   Account information, including your name and email address, collected when you sign in (e.g. via Google Sign-In or email/password)
+*   Account information, including your name and email address, collected when you sign in (e.g. via Apple, Google Sign-In, or email/password)
 *   Purchase and subscription information, including your purchase history and entitlement status, managed via RevenueCat
 *   Usage data, including app opens, book imports, reading session activity, and paywall views
 *   Crash logs and diagnostic data, collected to help us identify and fix bugs
@@ -28,12 +28,16 @@ For a better experience, while using the Application, the Service Provider may r
 
 The Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
+*   [Sign in with Apple](https://www.apple.com/legal/privacy/)
 *   [Google Sign-In](https://policies.google.com/privacy)
+*   [Gutendex](https://gutendex.com) (Discover book catalog)
 *   [RevenueCat](https://www.revenuecat.com/privacy)
 *   [Sentry](https://sentry.io/privacy/)
 *   [Supabase](https://supabase.com/privacy)
 
 These third-party services may collect data such as your name, email address, user or device identifiers, purchase history, usage activity, and crash/diagnostic data as described above, associated with your account, in order to provide authentication, subscription management, error monitoring, and data sync functionality within the Application.
+
+When you browse or search the Discover catalog, the Application sends your search terms and selected filters (such as topic, language, and sort order) to Gutendex, a public Project Gutenberg catalog service. Gutendex does not receive your account information, and it may see your device's IP address as part of the connection.
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
 
