@@ -27,6 +27,20 @@ In terms of the Service Provider's responsibility for your use of the applicatio
 
 The Service Provider may wish to update the application at some point. The application is currently available as per the requirements for the operating system (and for any additional systems they decide to extend the availability of the application to) may change, and you will need to download the updates if you want to continue using the application. The Service Provider does not guarantee that it will always update the application so that it is relevant to you and/or compatible with the particular operating system version installed on your device. However, you agree to always accept updates to the application when offered to you. The Service Provider may also wish to cease providing the application and may terminate its use at any time without providing termination notice to you. Unless they inform you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must cease using the application, and (if necessary) delete it from your device.
 
+**Nimbus Reader Pro Subscriptions**
+
+Nimbus Reader offers optional auto-renewable subscriptions ("Nimbus Reader Pro") that unlock additional features. Pro is available as Pro Weekly (1 week), Pro Monthly (1 month), and Pro Annual (1 year). The current price for each plan in your region is shown in the app before you purchase.
+
+*   Payment is charged to your Apple ID account when you confirm the purchase.
+*   Your subscription renews automatically at the end of each period unless you turn off auto-renew at least 24 hours before the current period ends.
+*   Your account is charged for renewal within 24 hours before the current period ends, at the price of the plan you selected.
+*   You can manage your subscription and turn off auto-renew at any time in your Apple ID account settings (Settings > your name > Subscriptions) after purchase.
+*   If a free trial is offered, any unused portion of it is forfeited when you purchase a subscription.
+
+**End User License Agreement**
+
+Your use of Nimbus Reader, including any subscription purchased through the App Store, is also governed by Apple's Standard Licensed Application End User License Agreement (EULA): [https://www.apple.com/legal/internet-services/itunes/dev/stdeula/](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
+
 **Changes to These Terms and Conditions**
 
 The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.
