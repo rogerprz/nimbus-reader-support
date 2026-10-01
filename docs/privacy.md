@@ -91,7 +91,7 @@ We do not sell your information. We share it only:
 
 ## How long we keep information
 
-We keep your account and synced data for as long as your account exists. When you delete your account, we remove it and your synced reading data. Records of purchases may be kept by Apple and by our subscription provider where needed for billing, tax, or legal reasons. Crash reports and usage events are kept for a limited time and then deleted.
+We keep your account and synced data for as long as your account exists. When you delete your account, we remove it and your synced reading data. Records of purchases may be kept by Apple and by our subscription provider where needed for billing, tax, or legal reasons. Crash and diagnostic reports are kept for a reasonable time while we use them to find and fix bugs, and are then deleted.
 
 ## Children
 
