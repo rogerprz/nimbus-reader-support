@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Effective date: 2026-09-30
+Effective date: 2026-10-24
 
 Nimbus Reader is made by Summer Cypress Ventures LLC ("we", "us"). This policy explains what the Nimbus Reader app collects, why, and what you can do about it.
 
@@ -35,7 +35,7 @@ Subscriptions are sold and billed by Apple. We never see your payment card detai
 
 When the app crashes or hits an error, a report is sent to us with technical details such as your device model, operating system version, and what the app was doing. To help us reproduce the problem, the report includes a short trail of recent actions in the app, such as signing in, importing a book, starting or ending a reading session, or opening a purchase screen. We also collect timing measurements from a sample of app sessions to find slow spots.
 
-These reports are not tagged with your account or email address. Our crash reporting is configured not to collect personal details by default, and reports are filtered on your device to strip file names and book details before they are sent.
+When you are signed in, reports and diagnostic logs may include your Nimbus account's UUID so we can connect a technical problem to the affected account when providing support. They do not include your email address, name, or other contact details. When you are signed out, reports are not linked to a Nimbus account. Our crash reporting is configured not to collect personal details by default, and reports are filtered on your device to remove contact details, file paths, and book content before they are sent. Sentry processes these reports for us. On our current Sentry Developer plan, error events are retained for up to 30 days; retention can vary by data type and plan.
 
 **Technical information**
 
@@ -91,7 +91,7 @@ We do not sell your information. We share it only:
 
 ## How long we keep information
 
-We keep your account and synced data for as long as your account exists. When you delete your account, we remove it and your synced reading data. Records of purchases may be kept by Apple and by our subscription provider where needed for billing, tax, or legal reasons. Crash and diagnostic reports are kept for a reasonable time while we use them to find and fix bugs, and are then deleted.
+We keep your account and synced data for as long as your account exists. When you delete your account, we remove it and your synced reading data. Account deletion clears the UUID from future diagnostic reports. Reports already sent to Sentry are not automatically deleted as part of account deletion and may remain for up to 30 days after they were received under our current Sentry Developer plan. You may contact us to request deletion of reports linked to your account UUID. Records of purchases may be kept by Apple and by our subscription provider where needed for billing, tax, or legal reasons.
 
 ## Children
 
